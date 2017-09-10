@@ -3,21 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="071bd8f4-f493-48b2-b12d-ea54e3fa5d1a" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Feelings/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thoughts/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thoughts/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thoughts/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thoughts/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thoughts/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thoughts/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thoughts/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thoughts/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Feelings/views.py" afterPath="$PROJECT_DIR$/Feelings/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FeelingsProj/settings.py" afterPath="$PROJECT_DIR$/FeelingsProj/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FeelingsProj/urls.py" afterPath="$PROJECT_DIR$/FeelingsProj/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/layout.html" afterPath="$PROJECT_DIR$/templates/layout.html" />
     </list>
     <ignored path="db.sqlite3" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -556,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497042813071</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Installed Django Rest Framework and React on Django using Webpack.">
+      <created>1505064618628</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1505064618628</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -601,7 +594,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit." />
+    <MESSAGE value="Installed Django Rest Framework and React on Django using Webpack." />
+    <option name="LAST_COMMIT_MESSAGE" value="Installed Django Rest Framework and React on Django using Webpack." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
